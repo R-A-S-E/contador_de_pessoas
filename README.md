@@ -1,10 +1,10 @@
-# contador_de_pessoas:walking:
+# contador de pessoas:walking:
 
 
 
 ### Criação do primeiro projeto de Flutter , focado totalmente no aprendizado
 
-## usando
+## utilizando
 
 - botões :heavy_check_mark:  
 - modificador de tela​ :heavy_check_mark:  
